@@ -1,0 +1,43 @@
+img {
+	height: 35px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+	top:0;
+}
+body {
+	background-color: #6799FF;
+	color: white;
+	padding: 30px;
+	font-family: 'Roboto', helvetica, sans-serif;
+	font-size: 11px;
+} 
+.container {
+	background-color: white;
+	width: 320px;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin: auto;
+}
+h1 {
+	font-size: 16px;
+	text-align: center;
+}
+section {
+	color: black;
+	margin: auto;
+}
+ul {
+	list-style: none;
+	position: relative;
+	padding-left: 150px;
+	text-align: left;
+	font-size: 11px;
+}
+li {
+	padding-left: 15px;
+}
+button {
+	margin-left: 150px;
+}
